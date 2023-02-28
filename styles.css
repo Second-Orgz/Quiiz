@@ -32,9 +32,10 @@ body.wrong {
 .container {
   width: 800px;
   max-width: 80%;
+  height: auto;
   background-color: white;
   border-radius: 5px;
-  padding: 10px;
+  padding: 50px;  
   box-shadow: 0 0 10px 2px;
 }
 
@@ -42,7 +43,7 @@ body.wrong {
   display: grid;
   grid-template-columns: repeat(2, auto);
   gap: 10px;
-  margin: 20px 0;
+  margin: 40px 0;
 }
 
 .btn {
@@ -78,6 +79,7 @@ body.wrong {
   display: flex;
   justify-content: center;
   align-items: center;
+  height: 100px;
 }
 
 .hide {

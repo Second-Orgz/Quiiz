@@ -1,4 +1,0 @@
-Quiz 
-html
-css
-javascript
